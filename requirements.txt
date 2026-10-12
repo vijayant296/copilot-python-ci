@@ -1,0 +1,2 @@
+# add pytest to requirements.txt
+pytest
